@@ -1,0 +1,170 @@
+ @media(max-width: 1100px) {}
+
+ /* /////////////////////////////////////////// */
+
+
+ @media(max-width: 992px) {
+     h1 {
+         font-size: 65px;
+     }
+
+     .header__content-txt {
+         font-size: 30px;
+     }
+
+     .header__content-button {
+         font-size: 15px;
+         padding: 10px 65px;
+     }
+
+     .header__content {
+         height: 550px;
+     }
+ }
+
+ /* /////////////////////////////////////////// */
+
+
+ @media(max-width: 768px) {
+     h1 {
+         font-size: 55px;
+     }
+
+     .header__content-txt {
+         font-size: 25px;
+     }
+
+     .header__content-button {
+         font-size: 12px;
+         padding: 7px 50px;
+     }
+
+     .header__content {
+         height: 427px;
+     }
+
+ }
+
+ /* /////////////////////////////////////////// */
+
+
+ @media(max-width: 576px) {
+     .nav__content {
+         height: 70px;
+     }
+
+     .nav_logo {
+         width: 10%;
+     }
+
+     .nav_content-ul li {
+         font-size: 10px;
+     }
+
+     .input_search {
+         height: 20px;
+         font-size: 10px;
+     }
+
+     .nav_content-search {
+         padding: 4px 14px;
+         font-size: 10px;
+     }
+
+
+
+     h1 {
+         font-size: 40px;
+     }
+
+     .header__content-txt {
+         font-size: 20px;
+     }
+
+     .header__content-button {
+         font-size: 10px;
+         padding: 5px 35px;
+     }
+
+     .header__content {
+         height: 321px;
+     }
+
+ }
+
+ /* /////////////////////////////////////////// */
+
+
+ @media(max-width: 460px) {
+     .nav__content {
+         height: 50px;
+     }
+
+     .nav_logo {
+         width: 7%;
+     }
+
+     .nav_content-ul li {
+         font-size: 7px;
+     }
+
+     .input_search {
+         height: 15px;
+         font-size: 7px;
+     }
+
+     .nav_content-search {
+         padding: 4px 14px;
+         font-size: 6px;
+     }
+
+ }
+
+ /* /////////////////////////////////////////// */
+
+ @media(max-width: 320px) {
+     .nav__content {
+         height: 35px;
+     }
+
+     .nav_content-ul {
+         gap: 10px;
+     }
+
+     .nav_content-ul li {
+         font-size: 5px;
+     }
+
+     .input_search {
+         height: 10px;
+         font-size: 5px;
+     }
+
+     .nav_content-search {
+         padding: 2px 14px;
+         font-size: 5px;
+     }
+
+
+     h1 {
+         font-size: 25px;
+     }
+
+     .header__content-txt {
+         font-size: 15px;
+     }
+
+     .header__content-button {
+         font-size: 7px;
+         padding: 5px 25px;
+     }
+
+     .header__content {
+         height: 178px;
+     }
+
+     .header__content-txt {
+         margin: 20px 0 15px 0;
+     }
+     
+ }
